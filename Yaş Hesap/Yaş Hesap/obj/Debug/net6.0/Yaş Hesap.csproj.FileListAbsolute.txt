@@ -1,0 +1,15 @@
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\bin\Debug\net6.0\Yaş Hesap.exe
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\bin\Debug\net6.0\Yaş Hesap.deps.json
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\bin\Debug\net6.0\Yaş Hesap.runtimeconfig.json
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\bin\Debug\net6.0\Yaş Hesap.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\bin\Debug\net6.0\Yaş Hesap.pdb
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\Yaş Hesap.csproj.AssemblyReference.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\Yaş Hesap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\Yaş Hesap.AssemblyInfoInputs.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\Yaş Hesap.AssemblyInfo.cs
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\Yaş Hesap.csproj.CoreCompileInputs.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\Yaş Hesap.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\refint\Yaş Hesap.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\Yaş Hesap.pdb
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\Yaş Hesap.genruntimeconfig.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Yaş Hesap\Yaş Hesap\obj\Debug\net6.0\ref\Yaş Hesap.dll
